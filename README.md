@@ -147,7 +147,7 @@ HTML         8 mins          ▓░░░░░░░░░░░░░░░░
 <div align="center">
 
 [![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/code-with-pritam-3aa402381/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/yourchannel)
@@ -161,7 +161,7 @@ HTML         8 mins          ▓░░░░░░░░░░░░░░░░
 
 **💼 Open for freelance work & collaborations**
 
-📫 **Email:** your.email@example.com  
+📫 **Email:** codewithpritam29@gmail.com
 🌐 **Portfolio:** [www.yourportfolio.com](https://yourportfolio.com)  
 📱 **Schedule a call:** [calendly.com/yourname](https://calendly.com/yourname)
 
